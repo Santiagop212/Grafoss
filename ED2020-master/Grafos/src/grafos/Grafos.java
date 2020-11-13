@@ -114,7 +114,7 @@ public class Grafos {
         mapa.put("C", 333);
         mapa.put("D", 444);
         mapa.put("E", 432);
-        mapa.put("Gw", 566);
+        mapa.put("G", 566);
         mapa.put("Y", 566);
 
         System.out.println("Mostrar las llaves del mapa");
